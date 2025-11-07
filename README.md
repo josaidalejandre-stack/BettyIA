@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo/logo JA medico.png" alt="logo JA medico" width="200"/>
+  <img src="assets/BettyIA logo.png" alt="BettyIA logo" width="200"/>
 </p>
 
 <h1 align="center">Josaid Alejandre – Soluciones Inteligentes</h1>
