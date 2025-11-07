@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/logo/logo JA medico.png" alt="logo JA medico" width="200"/>
+</p>
+
+<h1 align="center">Josaid Alejandre – Soluciones Inteligentes</h1>
+<h3 align="center">BettyIA – Asistente médico con inteligencia artificial</h3>
 # 🩺 BettyIA – Asistente Inteligente para Consultorios Médicos
 
 **BettyIA** es un asistente de inteligencia artificial diseñado para optimizar la comunicación entre médicos y pacientes.  
