@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+passlib
+bcrypt==3.2.2
+python-dotenv
+pytest
+requests
+httpx
+email-validator
